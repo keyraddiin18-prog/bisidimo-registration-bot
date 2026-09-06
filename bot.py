@@ -43,7 +43,7 @@ ABOUT_URL = "https://keyraddiin-media.onrender.com"
 GROUP_GRADE9_NAME = "GRADE 9 SMART STUDENTS | 2019 E.C"
 GROUP_EXAM_CENTER_NAME = "🛑 KEYRADDIIN EXAM CENTER"
 
-DB_FILE = "students.db"
+DB_FILE = "/data/bot.db"
 
 # ============================================================
 # LOGGING
